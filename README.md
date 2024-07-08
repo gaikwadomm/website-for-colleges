@@ -6,7 +6,8 @@ Builting website for first year project.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>div#lab102{
+    <style>
+        div#lab102{
         z-index:1;
     position:absolute;
     top:15px;
@@ -25,6 +26,7 @@ Builting website for first year project.
      font-size: large;
      border-radius: 5px;
     }  
+        
     div#lab101{
     z-index:1;
     position:absolute;
@@ -44,6 +46,7 @@ Builting website for first year project.
      font-size: large;
      border-radius: 5px;
     }
+        
     div#stairs{
      z-index:1;
     position:absolute;
@@ -63,6 +66,7 @@ Builting website for first year project.
      font-size: large;
      border-radius: 5px;
     }
+        
     div#store{
         z-index:1;
     position:absolute;
@@ -82,6 +86,7 @@ Builting website for first year project.
      font-size: large;
      border-radius: 5px;
     }
+        
     div#exam{
         z-index:1;
     position:absolute;
@@ -101,6 +106,7 @@ Builting website for first year project.
      font-size: large;
      border-radius: 5px;
     }
+        
     div#pg{
         z-index:1;
     position:absolute;
@@ -121,6 +127,7 @@ Builting website for first year project.
      border-radius: 5px;
      writing-mode: vertical-lr;
     }
+        
     div#stairs1{
         z-index:1;
     position:absolute;
@@ -140,6 +147,7 @@ Builting website for first year project.
      font-size: large;
      border-radius: 5px; 
     }
+        
     div#admin{
         z-index:1;
     position:absolute;
